@@ -13,7 +13,7 @@ Requirements: Coda 2.0
 
 Developer: [Gabriel Ulici](http://nightideaslab.com/gabe portfolio)
 
-##how to install
+##How to install
 
 Download using the [link](https://github.com/NightIdeasLab/Remove-Empty-Lines/archive/master.zip) and unzip it. Then, execute removeEmptyLines.codaplugin.
 
