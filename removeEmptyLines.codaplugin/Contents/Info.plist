@@ -11,7 +11,15 @@
 	<key>CFBundleIconFile</key>
 	<string>plug-in</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.panic.CodaScriptPlugIn</string>
+	<string>com.NightIdeasLab.RemoveEmptyLines</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Remove Empty Lines</string>
+	<key>CodaAuthorString</key>
+	<string>Gabriel Ulici</string>
+	<key>CodaDescriptionString</key>
+	<string>The Remove Empty Lines plugin for Coda 2 lets you quickly and easily remove all the empty lines from your current file</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
