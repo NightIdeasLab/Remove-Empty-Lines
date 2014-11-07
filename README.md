@@ -17,6 +17,8 @@ Developer: [Gabriel Ulici](http://nightideaslab.com/gabe portfolio)
 
 Download using the [link](https://github.com/NightIdeasLab/Remove-Empty-Lines/archive/master.zip) and unzip it. Then, execute removeEmptyLines.codaplugin.
 
+Or go to [www.panic.com/coda](http://panic.com/coda/plugins.php#Plugins) and search for Remove Empty Lines and just click on Install button that is on the right.
+
 ##History:
 
 v1.0 - initial release
