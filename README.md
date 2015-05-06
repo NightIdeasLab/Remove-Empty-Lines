@@ -5,13 +5,13 @@ The Remove Empty Lines plugin for Coda 2 lets you quickly and easily remove all 
 
 ##Specifications:
 
-Version: 1.0
+Version: 1.1
 
 Platform: Mac
 
 Requirements: Coda 2.0
 
-Developer: [Gabriel Ulici](http://nightideaslab.com/gabe portfolio)
+Developer: [Gabriel Ulici](http://nightideaslab.com/gabe_portfolio)
 
 ##How to install
 
@@ -21,6 +21,7 @@ Or go to [www.panic.com/coda](http://panic.com/coda/plugins.php#Plugins) and sea
 
 ##History:
 
+v1.1 - fixed a bug that outputs the file on one single line
 v1.0 - initial release
 
 ##Support:

@@ -13,7 +13,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.NightIdeasLab.RemoveEmptyLines</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleName</key>
 	<string>Remove Empty Lines</string>
 	<key>CodaAuthorString</key>
